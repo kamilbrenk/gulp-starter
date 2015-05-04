@@ -1,0 +1,26 @@
+{
+    "cdn": {
+        "host": "localhost",
+        "port": 8000
+    },
+
+    "paths": {
+        "temp": "./_temp",
+        "dist": "./_dist"
+    },
+
+    "develop" : {
+        "path": {
+            "images": "/app/images/",
+            "media": "/app/media/",
+            "fonts": "/app/fonts/"
+        },
+        "externalFiles": {
+            "css": [
+                "/node_modules/bootstrap/dist/css/bootstrap.min.css"
+            ]
+        }
+    },
+    "release" : {
+    }
+}

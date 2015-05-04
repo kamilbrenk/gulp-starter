@@ -1,0 +1,14 @@
+html,
+body,
+.application {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background: $color url('images/bg.jpg') no-repeat 0 0;
+    background-size: cover;
+    transition: transform 0.3s ease;
+}
+
+h1 {
+    font: 600 24px/1.5 'Open Sans', sans-serif;
+}

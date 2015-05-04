@@ -1,0 +1,36 @@
+# HG Files
+.hg/
+
+# Sources
+_source/
+
+# Build files
+_dist/
+.sass-cache/
+
+# Config Files
+config/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Node
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
